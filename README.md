@@ -6,6 +6,7 @@ Program is divided into two parts: optimization and implementation. The optimiza
 
 SETUP
 =====
+Used jupyter notebook as compiler
 1.	Install Python3
 2.	Install csv
 3.	Install pandas_datareader
